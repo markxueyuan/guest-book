@@ -1,6 +1,12 @@
 # guestbook
 
-FIXME
+This is the example project for Chapter 1 of book
+
+Web Development with clojure
+
+The difference is that we used mysql as db instead of sqlite as the book did,
+
+you should include a schema named sq3 in your db to run this app
 
 ## Prerequisites
 
